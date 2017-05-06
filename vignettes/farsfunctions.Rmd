@@ -15,6 +15,10 @@ The farsfunctions package gives the ability to read and visualise events provide
 
 The package contains five functions - each function is defined below.
 
+### Build Status
+
+![](https://travis-ci.org/yenlaw/yenlaw_farsfunctions.svg?branch=master)
+
 ## fars_read
 
 Reads a given file - of a FARS data format - specified by the filename
